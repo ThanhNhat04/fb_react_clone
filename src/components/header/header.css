@@ -1,0 +1,11 @@
+header {
+    position: fixed;
+    top: 0;
+    height: 56px;
+    z-index: 99;
+    background-color: gray;
+    width: 100%;
+    box-shadow: 2cap;
+    display: grid;
+    grid-template-columns: repeat(3, 1 fr);
+}
